@@ -1,3 +1,6 @@
 [submodule "NeuralRecon"]
 	path = NeuralRecon
 	url = https://github.com/zju3dv/NeuralRecon.git
+[submodule "ScanNet"]
+	path = ScanNet
+	url = https://github.com/ScanNet/ScanNet.git
