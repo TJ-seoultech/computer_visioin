@@ -8,3 +8,4 @@ https://www.lainyzine.com/ko/article/how-to-set-git-repository-username-and-emai
 
 git clone "the https address..."
 git submodule --init --recursive >>> enable to clone submodules, too.
+https://nochoco-lee.tistory.com/87
