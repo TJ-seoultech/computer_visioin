@@ -22,3 +22,13 @@ https://renai21c.gitbooks.io/linux-nvidia-cuda/content/chapter2.html
 
 flameshot install(screenshot program)
 https://ieworld.tistory.com/19?category=876039c
+
+cuda 설치방법
+혹시 기존에 nvidia driver가 깔려있다면 삭제후 cuda 버전에 맞는 것 설치
+
+# nvidia driver 삭제
+sudo apt-get --purge remove *nvidia*
+# 의존성 패키지로 남은 것들 삭제
+sudo apt-get autoremove 
+
+https://sanglee325.github.io/environment/install-CUDA-11-2/#11-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%9C-%EA%B2%BD%EC%9A%B0-building-kernel-modules
