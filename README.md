@@ -30,5 +30,5 @@ cuda 설치방법
 sudo apt-get --purge remove *nvidia*
 # 의존성 패키지로 남은 것들 삭제
 sudo apt-get autoremove 
-
+# cuda 11.2 
 https://sanglee325.github.io/environment/install-CUDA-11-2/#11-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%9C-%EA%B2%BD%EC%9A%B0-building-kernel-modules
